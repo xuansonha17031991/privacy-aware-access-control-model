@@ -1,0 +1,14 @@
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.MongoDb/bin/Debug/netcoreapp2.0/PrivacyABAC.MongoDb.deps.json
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.MongoDb/bin/Debug/netcoreapp2.0/PrivacyABAC.MongoDb.dll
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.MongoDb/bin/Debug/netcoreapp2.0/PrivacyABAC.MongoDb.pdb
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.MongoDb/bin/Debug/netcoreapp2.0/PrivacyABAC.DbInterfaces.dll
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.MongoDb/bin/Debug/netcoreapp2.0/PrivacyABAC.Infrastructure.dll
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.MongoDb/bin/Debug/netcoreapp2.0/PrivacyABAC.DbInterfaces.pdb
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.MongoDb/bin/Debug/netcoreapp2.0/PrivacyABAC.Infrastructure.pdb
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.MongoDb/obj/Debug/netcoreapp2.0/PrivacyABAC.MongoDb.csprojAssemblyReference.cache
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.MongoDb/obj/Debug/netcoreapp2.0/PrivacyABAC.MongoDb.csproj.CoreCompileInputs.cache
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.MongoDb/obj/Debug/netcoreapp2.0/PrivacyABAC.MongoDb.AssemblyInfoInputs.cache
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.MongoDb/obj/Debug/netcoreapp2.0/PrivacyABAC.MongoDb.AssemblyInfo.cs
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.MongoDb/obj/Debug/netcoreapp2.0/PrivacyABAC.MongoDb.csproj.CopyComplete
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.MongoDb/obj/Debug/netcoreapp2.0/PrivacyABAC.MongoDb.dll
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.MongoDb/obj/Debug/netcoreapp2.0/PrivacyABAC.MongoDb.pdb

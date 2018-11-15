@@ -1,0 +1,9 @@
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.Infrastructure/bin/Debug/netcoreapp2.0/PrivacyABAC.Infrastructure.deps.json
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.Infrastructure/bin/Debug/netcoreapp2.0/PrivacyABAC.Infrastructure.dll
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.Infrastructure/bin/Debug/netcoreapp2.0/PrivacyABAC.Infrastructure.pdb
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.Infrastructure/obj/Debug/netcoreapp2.0/PrivacyABAC.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.Infrastructure/obj/Debug/netcoreapp2.0/PrivacyABAC.Infrastructure.AssemblyInfoInputs.cache
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.Infrastructure/obj/Debug/netcoreapp2.0/PrivacyABAC.Infrastructure.AssemblyInfo.cs
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.Infrastructure/obj/Debug/netcoreapp2.0/PrivacyABAC.Infrastructure.dll
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.Infrastructure/obj/Debug/netcoreapp2.0/PrivacyABAC.Infrastructure.pdb
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.Infrastructure/obj/Debug/netcoreapp2.0/PrivacyABAC.Infrastructure.csprojAssemblyReference.cache
