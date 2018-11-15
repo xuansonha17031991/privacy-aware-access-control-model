@@ -1,0 +1,3 @@
+2018-11-07 21:34:40.3129|0|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|INFO|User profile is available. Using '/Users/lotus/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest. 
+2018-11-07 21:34:42.3190|1|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request starting HTTP/1.1 GET http://localhost:2164/api/values   
+2018-11-07 21:34:43.0418|2|Microsoft.AspNetCore.Hosting.Internal.WebHost|INFO|Request finished in 733.77ms 404  
