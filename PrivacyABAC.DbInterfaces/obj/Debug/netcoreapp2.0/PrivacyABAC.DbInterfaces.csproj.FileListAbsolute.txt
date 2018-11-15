@@ -1,0 +1,12 @@
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.DbInterfaces/bin/Debug/netcoreapp2.0/PrivacyABAC.DbInterfaces.deps.json
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.DbInterfaces/bin/Debug/netcoreapp2.0/PrivacyABAC.DbInterfaces.dll
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.DbInterfaces/bin/Debug/netcoreapp2.0/PrivacyABAC.DbInterfaces.pdb
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.DbInterfaces/bin/Debug/netcoreapp2.0/PrivacyABAC.Infrastructure.dll
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.DbInterfaces/bin/Debug/netcoreapp2.0/PrivacyABAC.Infrastructure.pdb
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.DbInterfaces/obj/Debug/netcoreapp2.0/PrivacyABAC.DbInterfaces.csprojAssemblyReference.cache
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.DbInterfaces/obj/Debug/netcoreapp2.0/PrivacyABAC.DbInterfaces.csproj.CoreCompileInputs.cache
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.DbInterfaces/obj/Debug/netcoreapp2.0/PrivacyABAC.DbInterfaces.AssemblyInfoInputs.cache
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.DbInterfaces/obj/Debug/netcoreapp2.0/PrivacyABAC.DbInterfaces.AssemblyInfo.cs
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.DbInterfaces/obj/Debug/netcoreapp2.0/PrivacyABAC.DbInterfaces.csproj.CopyComplete
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.DbInterfaces/obj/Debug/netcoreapp2.0/PrivacyABAC.DbInterfaces.dll
+/Users/lotus/Desktop/DHKTCNCT/Project3/AC/Trung-Thong/PrivacyABAC/PrivacyABAC.DbInterfaces/obj/Debug/netcoreapp2.0/PrivacyABAC.DbInterfaces.pdb
